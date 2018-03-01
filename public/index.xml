@@ -76,5 +76,24 @@ Follow the following steps:
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>{{ partial “head” . }} My name is Issa Sanogo</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/about/</guid>
+      <description>My name is Yihui Xie. You can know more about me on the homepage and my vitae. This blog is about statistics, R, graphics, life, and fun, with a special focus on R. I often update my old posts (even after years) to correct errors and remove outdated information, so please don&amp;rsquo;t take everything for granted. I like contributing to open-source software like:
+ R: I&amp;rsquo;m the author of a few R packages (see my resume) LyX: I maintain the Sweave and knitr modules in LyX with Jean-Marc Lasgouttes  I have an interview on The Setup where you can learn more about me on the software side.</description>
+    </item>
+    
   </channel>
 </rss>
