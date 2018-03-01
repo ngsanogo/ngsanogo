@@ -56,3 +56,9 @@ enableEmoji: true
   identifier = "contact"
   weight = 6
   url = "/contact/"
+  
+[params.logo]
+  url = "profile.png"
+  width = 50
+  height = 50
+  alt = "Logo"
