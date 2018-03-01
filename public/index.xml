@@ -87,12 +87,11 @@ Follow the following steps:
     
     <item>
       <title>About</title>
-      <link>/en/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/en/about/</guid>
-      <description>My name is Yihui Xie. You can know more about me on the homepage and my vitae. This blog is about statistics, R, graphics, life, and fun, with a special focus on R. I often update my old posts (even after years) to correct errors and remove outdated information, so please don&amp;rsquo;t take everything for granted. I like contributing to open-source software like:
- R: I&amp;rsquo;m the author of a few R packages (see my resume) LyX: I maintain the Sweave and knitr modules in LyX with Jean-Marc Lasgouttes  I have an interview on The Setup where you can learn more about me on the software side.</description>
+      <guid>/about/</guid>
+      <description>My name is Issa Sanogo.</description>
     </item>
     
   </channel>

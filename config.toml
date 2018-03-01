@@ -1,11 +1,10 @@
-baseurl = "/"
+baseurl = "http://ngsanogo.netlify.com/"
 languageCode = "en-US"
 title = "Issa Sanogo"
 disqusShortname = "ngsanogo"
 googleAnalytics = "UA-114981879-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 theme = "hugo-sustain"
-enableEmoji: true
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
@@ -56,9 +55,4 @@ enableEmoji: true
   identifier = "contact"
   weight = 6
   url = "/contact/"
-  
-[params.logo]
-  url = "profile.png"
-  width = 50
-  height = 50
-  alt = "Logo"
+
