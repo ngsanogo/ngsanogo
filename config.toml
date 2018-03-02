@@ -29,7 +29,7 @@ theme = "hugo-sustain"
   name = "about"
   identifier = "about"
   weight = 1
-  url = "/about/"
+  url = "/about.html"
 [[menu.main]]
   name = "blog"
   weight = 2
