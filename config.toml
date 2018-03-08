@@ -44,15 +44,20 @@ theme = "hugo-sustain"
   name = "teaching"
   identifier = "teaching"
   weight = 4
-  url = "/teaching/"
+  url = "/teaching.html"
+[[menu.main]]
+  name = "consulting"
+  identifier = "consulting"
+  weight = 5
+  url = "/consulting.html"
 [[menu.main]]
   name = "resume"
   identifier = "resume"
-  weight = 5
-  url = "/resume/"
+  weight = 6
+  url = "/resume.html"
 [[menu.main]]
   name = "contact"
   identifier = "contact"
-  weight = 6
-  url = "/contact/"
+  weight = 7
+  url = "/contact.html"
 
