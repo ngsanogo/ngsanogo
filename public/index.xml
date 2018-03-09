@@ -77,12 +77,23 @@ Follow the following steps:
     </item>
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I&amp;rsquo;m Issa Sanogo. This is my personnel website. For more information about me, go on my homepage or consult my resume.
+As Errare humanum est, some post certainly contain error so please feel free to push a correction request directly on Github.</description>
+    </item>
+    
+    <item>
       <title>Consulting</title>
       <link>/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/consulting/</guid>
-      <description></description>
+      <description>Get in touch if you have a project in mind. I&amp;rsquo;d love to discuss about it and find how I can help you.
+Data science You have a data science project but you don&amp;rsquo;t have the time or expertise to complete? I can help you. Data analysis is a real passion for me. I can also assist if you want to do your project by yourself and you just need coaching.</description>
     </item>
     
     <item>
@@ -91,7 +102,8 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>You can contact me.</description>
+      <description>The best way to reach me is by email on ngsanogo@gmail.com. But please don&amp;rsquo;t write me for question about programming. If you have question about programming post it on Stack Overflow you&amp;rsquo;ll have many answer and for sure better answer.
+The association (Association Kamita) organise every first saturday of the month. So if you want to meet me, you can check on the website of the association the place of the next meeting and catch me there.</description>
     </item>
     
     <item>
@@ -100,7 +112,10 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/resume/</guid>
-      <description></description>
+      <description> Contact information Short biography Education Professional Experience Consulting Computer skills  Operating Systems: 30% Windows, 70% Ubuntu
+ Languages: R, Python, HTML/CSS, JavaScript, PHP, SQL
+ Applications: LaTeX via Miktex, Markdown via Pandoc, databases (e.g. MySQL), SVN and GIT
+  </description>
     </item>
     
     <item>

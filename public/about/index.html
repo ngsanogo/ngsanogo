@@ -45,19 +45,19 @@ ga('send', 'pageview');
       <ul class="nav navbar-nav navbar-right">
       
         
-        <li><a href="/about.html">ABOUT</a></li>
+        <li><a href="/about">ABOUT</a></li>
         
         <li><a href="/blog/">BLOG</a></li>
         
         <li><a href="/projects/">PROJECTS</a></li>
         
-        <li><a href="/teaching.html">TEACHING</a></li>
+        <li><a href="/teaching">TEACHING</a></li>
         
-        <li><a href="/consulting.html">CONSULTING</a></li>
+        <li><a href="/consulting">CONSULTING</a></li>
         
-        <li><a href="/resume.html">RESUME</a></li>
+        <li><a href="/resume">RESUME</a></li>
         
-        <li><a href="/contact.html">CONTACT</a></li>
+        <li><a href="/contact">CONTACT</a></li>
         
       
       </ul>
@@ -65,27 +65,65 @@ ga('send', 'pageview');
   </div>
 </nav>
 
-      <section id="about">
+      
       <div class="container">
-        <div>
+        <div class="blog-post">
           <h3>
-            <strong><a href="/about.html">About</a></strong>
+            <strong><a href="/about/">About</a></strong>
           </h3>
         </div>
-
+        <div class="blog-title">
+          <h4>
+          January 1, 0001
+            &nbsp;&nbsp;
+            
+          </h4>
+        </div>
         <div class="panel panel-default">
           <div class="panel-body">
-            <div>
-              <p>My name is Issa Sanogo. For more information about me, consult my <a href = "/">homepage</a> or my <a href = "/resume.hmtl">resume</a>. This is my personnel website. it's about statistics, open soure sofware with a special focus on R. As <i><span lang="la">Errare humanum est, perseverare diabolicum</span></i></p>
+            <div class="blogpost">
+              <p>I&rsquo;m Issa Sanogo. This is my personnel website. For more information about me, go on my <a href="../">homepage</a> or consult my <a href="../resume">resume</a>.</p>
+
+<p>As <em>Errare humanum est</em>, some post certainly contain error so please feel free to push a correction request directly on <a href="https://github.com/ngsanogo/website">Github</a>.</p>
+
+              <hr>
+              <div class="related-posts">
+                <h5>Related Posts</h5>
+                
+              </div>
+            </div>
+          </div>
+          <hr>
+        
+<section id="comments">
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  
+  };
+  (function() {
+    var inIFrame = function() {
+      var iframe = true;
+      try { iframe = window.self !== window.top; } catch (e) {}
+      return iframe;
+    };
+    if (inIFrame()) return;
+    var d = document, s = d.createElement('script');
+    s.src = '//ngsanogo.disqus.com/embed.js'; s.async = true;
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</section>
+
 
         </div>
-        </div>
-        </div>
-        </div>
-        
-        
-      </section>
+      </div>
+      
     </div>
+
+    
     <footer>
   <div id="footer">
     <div class="container">
@@ -94,6 +132,7 @@ ga('send', 'pageview');
   </div>
 </footer>
 <div class="footer"></div>
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
