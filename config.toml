@@ -12,7 +12,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "profile.png"
   author = "N'Gouro dit Issa Sanogo"
-  description = "This is my website."
+  description = "This is my personnel website."
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
