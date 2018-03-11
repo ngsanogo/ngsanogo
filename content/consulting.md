@@ -24,5 +24,5 @@ Old man in [Mali](https://en.wikipedia.org/wiki/Mali) use to say:
 
 > *Empty barrels make the most noise*
 
-This means: *you don't need to talk too much because your work and your attitude will speak for you. So check out my [work](https://ngsanogo.com/projects) and [contact me](https://ngsanogo.com/contact).
+This means: *you don't need to talk too much because your work and your attitude will speak for you. So check out my [work](https://ngsanogo.com/projects) and [contact me](https://ngsanogo.com/contact)*.
 
