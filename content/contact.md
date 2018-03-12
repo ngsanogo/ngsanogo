@@ -7,4 +7,4 @@ The best way to reach me is by email at [ngsanogo@gmail.com](ngsanogo@gmail.com)
 
 The [Kamita association](https://kamita.fr) hold events every first Saturday of the month. So if you want to meet me, check on the [association's website](https://kamita.fr/evenement) or on [assomaliennes.com](http://assomaliennes.com/evenements) where the next meeting is being held and catch me there.
 
-The only social networks I use are : [LinkedIn](https://www.linkedin.com/in/issa-sanogo) and [Twitter](https://twitter.com/ngsanogo).
+The only social networks I use are : [LinkedIn](https://www.linkedin.com/in/ngsanogo/) and [Twitter](https://twitter.com/ngsanogo).

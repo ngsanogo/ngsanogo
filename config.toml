@@ -22,14 +22,14 @@ theme = "hugo-sustain"
   Github        = "ngsanogo"
   Email         = "ngsanogo@gmail.com"
   Twitter       = "ngsanogo"
-  LinkedIn      = "issa-sanogo"
+  LinkedIn      = "ngsanogo"
 
 ## Main Menu
 [[menu.main]]
   name = "about"
   identifier = "about"
   weight = 1
-  url = "/about"
+  url = "/about/"
 [[menu.main]]
   name = "blog"
   weight = 2
@@ -44,20 +44,20 @@ theme = "hugo-sustain"
   name = "teaching"
   identifier = "teaching"
   weight = 4
-  url = "/teaching"
+  url = "/teaching/"
 [[menu.main]]
   name = "consulting"
   identifier = "consulting"
   weight = 5
-  url = "/consulting"
+  url = "/consulting/"
 [[menu.main]]
   name = "resume"
   identifier = "resume"
   weight = 6
-  url = "/resume"
+  url = "/resume/"
 [[menu.main]]
   name = "contact"
   identifier = "contact"
   weight = 7
-  url = "/contact"
+  url = "/contact/"
 

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Issa Sanogo</title>
-    <link>/</link>
+    <link>https://ngsanogo.com/</link>
     <description>Recent content on Issa Sanogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ngsanogo.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>https://ngsanogo.com/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>https://ngsanogo.com/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
+      <link>https://ngsanogo.com/blog/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://ngsanogo.com/blog/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -33,30 +33,30 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Creating a New Theme</title>
-      <link>/blog/creating-a-new-theme/</link>
+      <link>https://ngsanogo.com/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/creating-a-new-theme/</guid>
+      <guid>https://ngsanogo.com/blog/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/blog/goisforlovers/</link>
+      <link>https://ngsanogo.com/blog/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/goisforlovers/</guid>
+      <guid>https://ngsanogo.com/blog/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/blog/hugoisforlovers/</link>
+      <link>https://ngsanogo.com/blog/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/hugoisforlovers/</guid>
+      <guid>https://ngsanogo.com/blog/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -67,10 +67,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>/blog/migrate-from-jekyll/</link>
+      <link>https://ngsanogo.com/blog/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/migrate-from-jekyll/</guid>
+      <guid>https://ngsanogo.com/blog/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -78,54 +78,57 @@ Follow the following steps:
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://ngsanogo.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://ngsanogo.com/about/</guid>
       <description>I&amp;rsquo;m Issa Sanogo. This is my personnel website. For more information about me, go on my homepage or consult my resume.
-This blog is about statistics, data science with a special focus on R and open source software.
+This blog is about statistics, data in general with a special focus on R and open source software.
 As Errare humanum est, some post certainly contain error so please feel free to push a correction request directly on Github.
 This site has been created with blogdown and the theme is hugo-sustain, a Hugo theme.</description>
     </item>
     
     <item>
       <title>Consulting</title>
-      <link>/consulting/</link>
+      <link>https://ngsanogo.com/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/consulting/</guid>
+      <guid>https://ngsanogo.com/consulting/</guid>
       <description>Get in touch if you have a project in mind. I&amp;rsquo;d love to discuss about it and figure out how I can help you.
 Data science You have a data science project but you don&amp;rsquo;t have the time or expertise to complete it? I can help you. Data analysis is a real passion for me. I can also assist you in doing your project by yourself by setting up coaching sessions.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://ngsanogo.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://ngsanogo.com/contact/</guid>
       <description>The best way to reach me is by email at ngsanogo@gmail.com. You can contact you about anything but if it&amp;rsquo;s about programming, I advise you to post it on Stack Overflow instead. You&amp;rsquo;ll have all the answers you are looking for and even better answer for sure.
 The Kamita association hold events every first Saturday of the month. So if you want to meet me, check on the association&amp;rsquo;s website or on assomaliennes.</description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>/resume/</link>
+      <link>https://ngsanogo.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/resume/</guid>
-      <description> Contact information Short biography Education Professional Experience Consulting Computer skills  Operating Systems: 30% Windows, 70% Ubuntu
+      <guid>https://ngsanogo.com/resume/</guid>
+      <description>Contact information  Email: ngsanogo@gmail.com
+ LinkdIn: Issa Sanogo
+ Twitter: @ngsanogo
+ Adress: 14 Rue de locarno, 92150, France
+  Short biography Education  Master&amp;rsquo;s degree in mathematical engineering applied to life sciences  Professional Experience  Data manager at APHP from 01/09/2017 to now.  Consulting Computer skills  Operating Systems: 30% Windows, 70% Ubuntu
  Languages: R, Python, HTML/CSS, JavaScript, PHP, SQL
- Applications: LaTeX via Miktex, Markdown via Pandoc, databases (e.g. MySQL), SVN and Git
-  </description>
+ Applications: LaTeX via Miktex, Markdown via Pandoc, databases (e.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>https://ngsanogo.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>https://ngsanogo.com/teaching/</guid>
       <description></description>
     </item>
     
