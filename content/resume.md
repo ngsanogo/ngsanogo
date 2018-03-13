@@ -10,13 +10,13 @@ title: "Resume"
 
 + Twitter: [@ngsanogo](https://twitter.com/ngsanogo)
 
-+ Adress: [14 Rue de locarno, 92150, France](https://www.google.fr/maps/place/14+Rue+de+Locarno,+92150+Suresnes/data=!4m2!3m1!1s0x47e664b48bbe0327:0x14b0d301f8773cbb?sa=X&ved=0ahUKEwjAhLzTm-XZAhXRCOwKHRfdBVYQ8gEILTAA)
++ Adress: [Suresnes, 92150, France](https://www.google.fr/maps/place/92150+Suresnes/data=!4m2!3m1!1s0x47e664c5b40ecee7:0x1c0b82c6e1d88150?sa=X&ved=0ahUKEwjT_JDfjurZAhUP2qQKHSRCAgcQ8gEILTAA)
 
 ## Short biography
 
 ## Education
 
-+ Master's degree in mathematical engineering applied to life sciences
++ Master's degree in mathematical engineering applied to life sciences at [UFR Math-Info Université Paris DESCARTES](http://www.mi.parisdescartes.fr/)
 
 ## Professional Experience
 
