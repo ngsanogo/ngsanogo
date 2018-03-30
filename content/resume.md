@@ -18,11 +18,19 @@ title: "Resume"
 
 + Master's degree in mathematical engineering applied to life sciences at [UFR Math-Info Université Paris DESCARTES](http://www.mi.parisdescartes.fr/)
 
++ 
+
 ## Professional Experience
 
 + Data manager at [APHP](https://aphp.fr) from 01/09/2017 to now.
 
+## Teaching
+
+No teaching for now.
+
 ## Consulting
+
+No consulting for now.
 
 ## Computer skills
 
@@ -31,3 +39,13 @@ title: "Resume"
 + Languages: [R](https://www.r-project.org/), [Python](https://www.python.org/), HTML/CSS, JavaScript, PHP, SQL
 
 + Applications: [LaTeX](https://www.latex-project.org/) via [Miktex](https://miktex.org/), Markdown via [Pandoc](https://pandoc.org/), databases (e.g. [MySQL](https://www.mysql.com/fr/)), [SVN](https://subversion.apache.org/) and [Git](https://git-scm.com/)
+
+## Languages
+
++ Bambara:
+
++ English: 
+
++ French:
+
++ Deutch

@@ -1,7 +1,3 @@
----
-title: About
-author: ''
----
 
 I'm Issa Sanogo. This is my personnel website. For more information about me, go on my [homepage](https://ngsanogo.com/) or consult my [resume](https://ngsanogo.com/resume).
 
