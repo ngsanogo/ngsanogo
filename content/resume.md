@@ -1,5 +1,6 @@
 ---
 title: "Resume"
+date: "2016-04-05T23:50:51-07:00"
 ---
 
 ## Contact information
@@ -14,11 +15,13 @@ title: "Resume"
 
 ## Short biography
 
+I'm [Issa Sanogo](https://www.ngsanogo.com/), I'm a huge nerd passioned by data science. I love learning and teaching. I'm in favor of popularizing sience.
+
 ## Education
 
-+ Master's degree in mathematical engineering applied to life sciences at [UFR Math-Info Université Paris DESCARTES](http://www.mi.parisdescartes.fr/)
++ Master's degree in mathematical engineering applied to life sciences at [UFR Math-Info Université Paris DESCARTES](http://www.mi.parisdescartes.fr/), France
 
-+ 
++ Bachelor's degree in science at Lycée Soundiata Keita, Mali.
 
 ## Professional Experience
 
@@ -42,10 +45,10 @@ No consulting for now.
 
 ## Languages
 
-+ Bambara:
++ Bambara: native speaker
 
 + English: 
 
-+ French:
++ French: native speaker
 
-+ Deutch
++ Deutch:

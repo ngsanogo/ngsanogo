@@ -1,8 +1,6 @@
 ---
 title: "Consulting"
-output: 
-  html_document: 
-    highlight: true
+date: "2016-04-05T23:50:51-07:00"
 ---
 
 Get in touch if you have a project in mind. I'd love to discuss about it and figure out how I can help you.
@@ -24,5 +22,5 @@ Old man in [Mali](https://en.wikipedia.org/wiki/Mali) use to say:
 
 > *Empty barrels make the most noise*
 
-This means: *you don't need to talk too much because your work and your attitude will speak for you. So check out my [work](https://ngsanogo.com/projects) and [contact me](https://ngsanogo.com/contact)*.
+This means: *You don't need to talk too much, your work and your attitude will speak for you. So check out my [work](https://ngsanogo.com/projects) and [contact me](https://ngsanogo.com/contact)*.
 

@@ -4,9 +4,7 @@
 
       <!-- Header -->
       {{ partial "header" . }}
-      {{ if isset .Params "showpagemeta" }}
-        {{ .Render "projects" }}
-      {{ else }}
+      
       <div class="container">
         <div class="blog-post">
           <h3>

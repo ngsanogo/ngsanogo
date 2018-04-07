@@ -1,3 +1,7 @@
+---
+title: "About"
+date: "2018-04-05T23:50:51-07:00"
+---
 
 I'm Issa Sanogo. This is my personnel website. For more information about me, go on my [homepage](https://ngsanogo.com/) or consult my [resume](https://ngsanogo.com/resume).
 
