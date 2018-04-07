@@ -5,7 +5,6 @@ disqusShortname = "ngsanogo"
 googleAnalytics = "UA-114981879-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 theme = "hugo-sustain"
-enableEmoji = true
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
