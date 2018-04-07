@@ -1,8 +1,4 @@
----
-output: 
-  html_document: 
-    theme: simplex
----
+
 This repository hosts the source files of my website.
 
 To build the website locally, you can clone the repo by typing this line of command in your terminal `git clone https://github.com/ngsanogo/website`.
