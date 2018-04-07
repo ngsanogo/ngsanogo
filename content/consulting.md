@@ -12,13 +12,13 @@ Data analysis is a real passion for me. I can also assist you in doing your proj
 
 ## R packages
 
-You have code or codes that you would like to turn into an [R](https://www.r-project.org/) package? I can work with you to structure, write, document and package your code including getting it through the CRAN submission process; as well as writting vignettes for your new (or existing) package to ensure new users can quickly and easily get started with your package.
+You have code or codes that you would like to turn into an <a href= "https://www.r-project.org/" target = "_blank">R</a> package? I can work with you to structure, write, document and package your code including getting it through the CRAN submission process; as well as writting vignettes for your new (or existing) package to ensure new users can quickly and easily get started with your package.
 
 ## Shiny apps
 
-You need non-R-users to interact with R code? You are trying to engage people with interactive and visual interfaces to your data and analysis? I can build [Shiny apps](https://shiny.rstudio.com/) to provide solutions.
+You need non-R-users to interact with R code? You are trying to engage people with interactive and visual interfaces to your data and analysis? I can build <a href= "https://shiny.rstudio.com/" target = "_blank">Shiny apps</a> to provide solutions.
 
-Old man in [Mali](https://en.wikipedia.org/wiki/Mali) use to say:
+Old man in <a href= "https://en.wikipedia.org/wiki/Mali" target = "_blank">Mali</a> use to say:
 
 > *Empty barrels make the most noise*
 
