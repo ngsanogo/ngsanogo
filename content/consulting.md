@@ -1,6 +1,6 @@
 ---
 title: "Consulting"
-date: "2016-04-05T23:50:51-07:00"
+date: "2016-04-05"
 ---
 
 Get in touch if you have a project in mind. I'd love to discuss about it and figure out how I can help you.

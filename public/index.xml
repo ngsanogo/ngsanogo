@@ -12,16 +12,6 @@
     
     
     <item>
-      <title>Contact</title>
-      <link>https://ngsanogo.com/contact/</link>
-      <pubDate>Fri, 06 Apr 2018 23:50:51 -0700</pubDate>
-      
-      <guid>https://ngsanogo.com/contact/</guid>
-      <description>The best way to reach me is by email at ngsanogo@gmail.com. You can contact me about anything but if it&amp;rsquo;s about programming, I advise you to post it on Stack Overflow instead. You&amp;rsquo;ll have all the answers you are looking for and even better answer for sure.
-The Kamita association hold events every first Saturday of the month. So if you want to meet me, check on the association&amp;rsquo;s website or on assomaliennes.</description>
-    </item>
-    
-    <item>
       <title>Project</title>
       <link>https://ngsanogo.com/projects/</link>
       <pubDate>Fri, 06 Apr 2018 23:50:51 -0700</pubDate>
@@ -44,9 +34,19 @@ This site has been created with blogdown and the theme is hugo-sustain, a Hugo t
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>https://ngsanogo.com/contact/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ngsanogo.com/contact/</guid>
+      <description>The best way to reach me is by email at ngsanogo@gmail.com. You can contact me about anything but if it&amp;rsquo;s about programming, I advise you to post it on Stack Overflow instead. You&amp;rsquo;ll have all the answers you are looking for and even better answer for sure.
+The Kamita association hold events every first Saturday of the month. So if you want to meet me, check on the association&amp;rsquo;s website or on assomaliennes.</description>
+    </item>
+    
+    <item>
       <title>Consulting</title>
       <link>https://ngsanogo.com/consulting/</link>
-      <pubDate>Tue, 05 Apr 2016 23:50:51 -0700</pubDate>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ngsanogo.com/consulting/</guid>
       <description>Get in touch if you have a project in mind. I&amp;rsquo;d love to discuss about it and figure out how I can help you.
@@ -54,27 +54,26 @@ Data science You have a data science project but you don&amp;rsquo;t have the ti
     </item>
     
     <item>
-      <title>Resume</title>
-      <link>https://ngsanogo.com/resume/</link>
-      <pubDate>Tue, 05 Apr 2016 23:50:51 -0700</pubDate>
-      
-      <guid>https://ngsanogo.com/resume/</guid>
-      <description>Contact information  Email: ngsanogo@gmail.com
- LinkdIn: Issa Sanogo
- Twitter: @ngsanogo
- Adress: Suresnes, 92150, France
-Short biography  I&amp;rsquo;m Issa Sanogo, I&amp;rsquo;m a huge nerd passioned by data science. I love learning and teaching. I&amp;rsquo;m in favor of popularizing sience.
-Education  Master&amp;rsquo;s degree in mathematical engineering applied to life sciences at UFR Math-Info Université Paris DESCARTES, France
- Bachelor&amp;rsquo;s degree in science at Lycée Soundiata Keita, Mali.</description>
-    </item>
-    
-    <item>
       <title>Teaching</title>
       <link>https://ngsanogo.com/teaching/</link>
-      <pubDate>Tue, 05 Apr 2016 23:50:51 -0700</pubDate>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ngsanogo.com/teaching/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://ngsanogo.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ngsanogo.com/resume/</guid>
+      <description>Pulblished: Sunday, april 15 2018 Last update: dimanche, avril 04, 2018
+Contact informationEmail: ngsanogo@gmail.com
+LinkdIn: Issa Sanogo
+Twitter: ngsanogo
+Adress: Suresnes, 92150, France
+Short biographyI am Issa Sanogo, I am a huge nerd passioned by data science. I love learning and teaching. I am in favor of popularizing sience. I am a malian, after beeing graduated of bachelor’s degree in Mali I came in France to do my graduate studies.</description>
     </item>
     
   </channel>
