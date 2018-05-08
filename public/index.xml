@@ -2,31 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Issa Sanogo</title>
-    <link>https://ngsanogo.com/</link>
+    <link>/</link>
     <description>Recent content on Issa Sanogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Apr 2018 23:50:51 -0700</lastBuildDate>
     
-	<atom:link href="https://ngsanogo.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Project</title>
-      <link>https://ngsanogo.com/projects/</link>
-      <pubDate>Fri, 06 Apr 2018 23:50:51 -0700</pubDate>
-      
-      <guid>https://ngsanogo.com/projects/</guid>
-      <description>Here are the projects I have worked on or I&amp;rsquo;m working on:
-Website This project is about building a website with hugo and blogdown.</description>
-    </item>
     
     <item>
       <title>About</title>
-      <link>https://ngsanogo.com/about/</link>
-      <pubDate>Thu, 05 Apr 2018 23:50:51 -0700</pubDate>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ngsanogo.com/about/</guid>
+      <guid>/about/</guid>
       <description>I&amp;rsquo;m Issa Sanogo. This is my personnel website. For more information about me, go on my homepage or consult my resume.
 This blog is about statistics, data in general with a special focus on R and open source software.
 As Errare humanum est, some post certainly contain error so please feel free to push a correction request directly on Github.
@@ -34,47 +23,61 @@ This site has been created with blogdown and the theme is hugo-sustain, a Hugo t
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://ngsanogo.com/contact/</link>
-      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ngsanogo.com/contact/</guid>
-      <description>The best way to reach me is by email at ngsanogo@gmail.com. You can contact me about anything but if it&amp;rsquo;s about programming, I advise you to post it on Stack Overflow instead. You&amp;rsquo;ll have all the answers you are looking for and even better answer for sure.
-The Kamita association hold events every first Saturday of the month. So if you want to meet me, check on the association&amp;rsquo;s website or on assomaliennes.</description>
-    </item>
-    
-    <item>
       <title>Consulting</title>
-      <link>https://ngsanogo.com/consulting/</link>
-      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      <link>/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ngsanogo.com/consulting/</guid>
+      <guid>/consulting/</guid>
       <description>Get in touch if you have a project in mind. I&amp;rsquo;d love to discuss about it and figure out how I can help you.
 Data science You have a data science project but you don&amp;rsquo;t have the time or expertise to complete it? I can help you. Data analysis is a real passion for me. I can also assist you in doing your project by yourself by setting up coaching sessions.</description>
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>https://ngsanogo.com/teaching/</link>
-      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ngsanogo.com/teaching/</guid>
-      <description></description>
+      <guid>/contact/</guid>
+      <description>The best way to reach me is by email at ngsanogo@gmail.com. You can contact me about anything but if it&amp;rsquo;s about programming, I advise you to post it on Stack Overflow instead. You&amp;rsquo;ll have all the answers you are looking for and even better answer for sure.
+The Kamita association hold events every first Saturday of the month. So if you want to meet me, check on the association&amp;rsquo;s website or on assomaliennes.</description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Here are the projects I have worked on or I&amp;rsquo;m working on:
+Website This project is about building a website with hugo and blogdown. The source code is hosting on github.</description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://ngsanogo.com/resume/</link>
+      <link>/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ngsanogo.com/resume/</guid>
-      <description>Pulblished: Sunday, april 15 2018
-Last update: dimanche, avril 04, 2018
+      <guid>/resume/</guid>
+      <description>Pulblished: April 15, 2018
+Last update: Mai 05, 2018
 Contact informationEmail: ngsanogo@gmail.com
 LinkdIn: Issa Sanogo
 Twitter: ngsanogo
 Adress: Suresnes, 92150, France
-Short biographyI am Issa Sanogo, I am a huge nerd passioned by data science. I love learning and teaching. I am in favor of popularizing sience. I am a malian, after beeing graduated of bachelor’s degree in Mali I came in France to do my graduate studies.</description>
+Short biographyI am Issa Sanogo, I am malian.
+I am a huge nerd passioned by data science. I love learning and teaching. I am in favor of popularizing sience.
+After beeing graduated of bachelor’s degree in Mali I came in France to do my graduate studies.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>I&amp;rsquo;m willing to teach either at university or in private courses.
+I think science must not be an occult thing.
+I can offer custom R training at your location. if you have a specific need in mind, contact me and we can work on a program together.</description>
     </item>
     
   </channel>

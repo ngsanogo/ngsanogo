@@ -3,8 +3,8 @@ title: "Resume"
 output: html_document
 ---
 
-Pulblished: Sunday, april 15 2018  
-Last update: `r format(lubridate::today("GMT"), "%A, %B %m, %Y")`
+Pulblished: April 15, 2018  
+Last update: `r Hmisc::capitalize(format(lubridate::today("GMT"), "%B %m, %Y"))`
 
 
 ## Contact information
@@ -19,11 +19,13 @@ Last update: `r format(lubridate::today("GMT"), "%A, %B %m, %Y")`
 
 ## Short biography
 
-I am [Issa Sanogo](https://www.ngsanogo.com/), I am a huge nerd passioned by data science. I love learning and teaching. I am in favor of popularizing sience. I am a malian, after beeing graduated of bachelor's degree in Mali I came in France to do my graduate studies. I graduated from <a href= "http://www.mi.parisdescartes.fr/" target = "_blank">UFR Math-Info Université Paris DESCARTES</a>, where I obtained a M.A. in mathematical engineering applied to life sciences.
+I am [Issa Sanogo](https://www.ngsanogo.com/), I am malian.  
+I am a huge nerd passioned by data science. I love learning and teaching. I am in favor of popularizing sience.  
+After beeing graduated of bachelor's degree in Mali I came in France to do my graduate studies. I graduated from <a href= "http://www.mi.parisdescartes.fr/" target = "_blank">UFR Math-Info Université Paris DESCARTES</a>, where I obtained a M.S. in mathematical engineering applied to life sciences.
 
 Now, I am working at <a href= "https://aphp.fr" target = "_blank">APHP</a> as a data manager.
 
-I am pretty much an **useR** and a big fan of open source.
+I am pretty much an **useR** and a big fan of open source software.
 
 ## Education
 
