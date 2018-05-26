@@ -2,9 +2,12 @@
 title: "Resume"
 output: html_document
 ---
+```{r, echo = FALSE, warning = FALSE, message = FALSE, results = 'hide'}
+Sys.setlocale("LC_TIME", "C")
+```
 
 Pulblished: April 15, 2018  
-Last update: `r Hmisc::capitalize(format(lubridate::today("GMT"), "%B %m, %Y"))`
+Last update: `r Hmisc::capitalize(format(Sys.Date(), '%B %d, %Y'))`
 
 
 ## Contact information
