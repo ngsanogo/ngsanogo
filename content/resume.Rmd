@@ -23,7 +23,7 @@ Last update: `r Hmisc::capitalize(format(Sys.Date(), '%B %d, %Y'))`
 ## Short biography
 
 I am [Issa Sanogo](https://www.ngsanogo.com/), I am malian.  
-I am a huge nerd passioned by data science. I love learning and teaching. I am in favor of popularizing sience.  
+I am a huge nerd passioned by data science. I love learning and teaching. I am in favor of popularizing science.  
 After beeing graduated of bachelor's degree in Mali I came in France to do my graduate studies. I graduated from <a href= "http://www.mi.parisdescartes.fr/" target = "_blank">UFR Math-Info Université Paris DESCARTES</a>, where I obtained a M.S. in mathematical engineering applied to life sciences.
 
 Now, I am working at <a href= "https://aphp.fr" target = "_blank">APHP</a> as a data manager.
@@ -57,18 +57,18 @@ No consulting for now.
 
 ## Computer skills
 
-+ Operating Systems: 30% Windows, 70% Ubuntu
++ Operating Systems: Linux, Windows, Mac OS
 
-+ Languages: R, Python, C/C++, HTML/CSS, JavaScript, PHP, PostgreSQL/MySQL
++ Languages: R, Python, PostgreSQL/MySQL, C/C++, HTML/CSS, JavaScript, PHP
 
-+ Applications: LaTeX via Miktex, Markdown via Pandoc, databases (e.g. MySQL, Git and SVN for version control
++ Applications: LaTeX, Markdown, Git, Limesurvey, RedCap
 
 ## Languages
 
 + Bambara: native speaker
 
++ Deutch: beginner
+
 + English: Intermediate level
 
 + French: native speaker
-
-+ Deutch: beginner
