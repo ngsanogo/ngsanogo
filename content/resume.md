@@ -1,14 +1,6 @@
 ---
 title: "Resume"
-output: html_document
 ---
-```{r, echo = FALSE, warning = FALSE, message = FALSE, results = 'hide'}
-Sys.setlocale("LC_TIME", "C")
-```
-
-Pulblished: April 15, 2018  
-Last update: `r Hmisc::capitalize(format(Sys.Date(), '%B %d, %Y'))`
-
 
 ## Contact information
 
@@ -22,11 +14,11 @@ Last update: `r Hmisc::capitalize(format(Sys.Date(), '%B %d, %Y'))`
 
 ## Short biography
 
-I am [Issa Sanogo](https://www.ngsanogo.com/), I am malian.  
+My name is [Issa Sanogo](https://www.ngsanogo.com/), I am a mathematician engineer.  
 I am a huge nerd passioned by data science. I love learning and teaching. I am in favor of popularizing science.  
 After beeing graduated of bachelor's degree in Mali I came in France to do my graduate studies. I graduated from <a href= "http://www.mi.parisdescartes.fr/" target = "_blank">UFR Math-Info Université Paris DESCARTES</a>, where I obtained a M.S. in mathematical engineering applied to life sciences.
 
-Now, I am working at <a href= "https://aphp.fr" target = "_blank">APHP</a> as a data manager.
+Actually, I am working in clinical research at <a href= "https://aphp.fr" target = "_blank">APHP</a> as a data manager.
 
 I am pretty much an **useR** and a big fan of open source software.
 
@@ -39,13 +31,13 @@ I am pretty much an **useR** and a big fan of open source software.
 ## Professional Experience
 
 + **Data manager at <a href= "https://aphp.fr" target = "_blank">APHP</a>** from 01/09/2017 to now  
-Development of algorithm in R of consistency check, creation of database (CleanWeb), reporting with R and development of application (Shiny).
+Development of algorithm in R of consistency check, creation of eCRF (CleanWeb, REDcap), reporting with R, development of application in [Shiny](https://shiny.rstudio.com/) and development of packages in R.
 
 + **Internship as data manager at <a href= "https://aphp.fr" target = "_blank">APHP</a>** from 15/02/2017 to 15/08/2017  
-Development of algorithm in R of consistency check, creation of database (CleanWeb), reporting with R.
+Development of algorithm in R of consistency check, creation of eCRF (CleanWeb), reporting with R.
 
 + **Internship at <a href= "http://www.instat-mali.org/" target = "_blank">INSTAT-MALI/ Mali</a>**  
-Updating and cleaning data on Malian companies, learning R and VBA.
+Data management of national data on private sector business, learning R and VBA.
 
 ## Teaching
 
@@ -72,3 +64,9 @@ No consulting for now.
 + English: Intermediate level
 
 + French: native speaker
+
+## Hobies
+
++ Sport (Basketball, soccer, bodybuilding)
+
++ Reading (Biography, novel, apologue)  

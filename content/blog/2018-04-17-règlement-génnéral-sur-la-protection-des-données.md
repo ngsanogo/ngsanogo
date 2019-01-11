@@ -1,25 +1,12 @@
 ---
 title: Règlement Génnéral sur la protection des Données
-author: Issa Sanogo
 date: '2018-04-17'
 slug: règlement-génnéral-sur-la-protection-des-données
-categories:
-  - regulation
-  - personal data
-tags:
-  - rgpd
-description: ''
 ---
-```{r, echo = FALSE, warning = FALSE, message = FALSE, results = 'hide'}
-Sys.setlocale("LC_TIME", "C")
-```
-
-Date de publication : April 17, 2018  
-Date de dernière mise à jour : `r Hmisc::capitalize(format(Sys.Date(), '%B %d, %Y'))`
 
 ## Introduction
 
-Dans un monde de plus en plus tourné vers le numérique, vers les nouvelles technologies, la donnée est une devenue l'or noir du XXIe siècle. Mais depuis le début du siècle, le nombre de cyber-attaque ne cesse d'augmenter. Les révélations d'Ed. Swoden ont ebranlé le monde. Le piratage des 3 milliards de compte de Yahoo et plus récemment l'affaire Cambridge Analityca avec Facebook. Nous assistons de façon impuissante à de multiples atteintes à l'identité humaine, à la vie privée et aux libertés individuelles ou publiques. Le droit pour une personne de décider et de contrôler les usages qui sont faits des données à caractères personnelles la concernant est fondamental. C'est dans cet esprit que s'inscrit le nouveau Règlement européen Général sur la Protection des Données personnelles (**RGPD**).  Dans cet article je vais essayer de vous expliquer le RGPD et d'exposer les changements les plus remarquables.
+Dans un monde de plus en plus tourné vers le numérique, vers les nouvelles technologies, la donnée est devenue l'or noir du XXIe siècle. Mais depuis le début du siècle, le nombre de cyber-attaque ne cesse d'augmenter. Les révélations d'Ed. Swoden ont ebranlé le monde. Le piratage des 3 milliards de compte de Yahoo et plus récemment l'affaire Cambridge Analityca avec Facebook. Nous assistons de façon impuissante à de multiples atteintes à l'identité humaine, à la vie privée et aux libertés individuelles ou publiques. Le droit pour une personne de décider et de contrôler les usages qui sont faits des données à caractères personnelles la concernant est fondamental. C'est dans cet esprit que s'inscrit le nouveau Règlement européen Général sur la Protection des Données personnelles (**RGPD**).  Dans cet article je vais essayer de vous expliquer le RGPD et d'exposer les changements les plus remarquables.
 
 ## Vocabulaires
 
