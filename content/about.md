@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I'm Issa Sanogo. This is my personnel website. For more information about me, go on my [homepage](https://ngsanogo.com/) or consult my [resume](https://ngsanogo.com/resume).
+I'm Issa Sanogo. This is my personnel website. For more information about me, go on my [homepage](https://ngsanogo.rbind.io/) or consult my [resume](https://ngsanogo.rbind.io/resume).
 
 This blog is about statistics, data in general with a special focus on <a href= "https://www.r-project.org/" target = "_blank">R</a> and open source software.
 
