@@ -10,17 +10,19 @@ title: "Resume"
 
 + Twitter: [ngsanogo](https://twitter.com/ngsanogo)
 
-+ Adress: <a href= "https://www.google.fr/maps/place/92150+Suresnes/data=!4m2!3m1!1s0x47e664c5b40ecee7:0x1c0b82c6e1d88150?sa=X&ved=0ahUKEwjT_JDfjurZAhUP2qQKHSRCAgcQ8gEILTAA" target = "_blank">Suresnes, 92150, France</a>
++ Adress: <a href= "https://www.google.com/maps/place/95870+Bezons/@48.9231547,2.2021635,13.85z/data=!4m5!3m4!1s0x47e664161c8482d3:0x40b82c3688b35a0!8m2!3d48.925687!4d2.215847" target = "_blank">Bezons, 95870, France</a>
 
 ## Short biography
 
-My name is [Issa Sanogo](https://www.ngsanogo.com/), I am a mathematician engineer.  
+My name is [Issa Sanogo](https://www.ngsanogo.rbind.io/), I am a mathematician engineer.  
 I am a huge nerd passioned by data science. I love learning and teaching. I am in favor of popularizing science.  
 After beeing graduated of bachelor's degree in Mali I came in France to do my graduate studies. I graduated from <a href= "http://www.mi.parisdescartes.fr/" target = "_blank">UFR Math-Info Université Paris DESCARTES</a>, where I obtained a M.S. in mathematical engineering applied to life sciences.
 
-Actually, I am working in clinical research at <a href= "https://aphp.fr" target = "_blank">APHP</a> as a data manager.
+Actually, I am working as a clinical data manager - biostatistician at <a href= "https://aphp.fr" target = "_blank">APHP</a>.
 
 I am pretty much an **useR** and a big fan of open source software.
+
+To download my CV, please click [here](../CV_ISO.pdf)
 
 ## Education
 
@@ -30,14 +32,32 @@ I am pretty much an **useR** and a big fan of open source software.
 
 ## Professional Experience
 
-+ **Data manager at <a href= "https://aphp.fr" target = "_blank">APHP</a>** from 01/09/2017 to now  
-Development of algorithm in R of consistency check, creation of eCRF (CleanWeb, REDcap), reporting with R, development of application in [Shiny](https://shiny.rstudio.com/) and development of packages in R.
++ **Data manager - biostatiscian at <a href= "https://aphp.fr" target = "_blank">APHP</a>** from 01/04/2019 to now
+
+    - All my data manager's missions
+    - Statistical analysis plan writing
+    - Statistical analysis
+
++ **Data manager at <a href= "https://aphp.fr" target = "_blank">APHP</a>** from 01/09/2017 to 31/03/2019  
+
+    - Creation of eCRF
+    - Data management of clinical data
+    - Reporting with R
+    - Developpement of algorithm in R
+    - Developpement of application in Shiny
+    - Developpement of package in R
 
 + **Internship as data manager at <a href= "https://aphp.fr" target = "_blank">APHP</a>** from 15/02/2017 to 15/08/2017  
-Development of algorithm in R of consistency check, creation of eCRF (CleanWeb), reporting with R.
 
-+ **Internship at <a href= "http://www.instat-mali.org/" target = "_blank">INSTAT-MALI/ Mali</a>**  
-Data management of national data on private sector business, learning R and VBA.
+    - Creation of eCRF (REDCap, CleanWeb)
+    - Developpement of algorithm in R
+    - Reporting with R
+
++ **Internship as statistician at <a href= "http://www.instat-mali.org/" target = "_blank">INSTAT-MALI/ Mali</a>**
+
+    - Data aalysis in R
+    - Data management of malian's entreprises databases
+    - Developpement of programm in VBA
 
 ## Teaching
 
@@ -45,28 +65,30 @@ No teaching for now.
 
 ## Consulting
 
-No consulting for now.
++ **SNOV**
+
+    - Creation and Administration of server (EC2 AWS)
+    - Installation of limesurvey on the server
+    - Creation of surveys in limesurvey
 
 ## Computer skills
 
 + Operating Systems: Linux, Windows, Mac OS
 
-+ Languages: R, Python, PostgreSQL/MySQL, C/C++, HTML/CSS, JavaScript, PHP
++ Languages: R, Python, PostgreSQL/MySQL, C/C++, HTML/CSS, JavaScript, LaTeX, Markdown
 
-+ Applications: LaTeX, Markdown, Git, Limesurvey, RedCap
++ Applications: Git, Limesurvey, RedCap
 
 ## Languages
 
 + Bambara: native speaker
 
-+ Deutch: beginner
-
-+ English: Intermediate level
++ English: Intermediate level (B2 CECR)
 
 + French: native speaker
 
 ## Hobies
 
-+ Sport (Basketball, soccer, bodybuilding)
++ Sport
 
-+ Reading (Biography, novel, apologue)  
++ Reading

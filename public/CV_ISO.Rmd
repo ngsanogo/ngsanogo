@@ -1,0 +1,67 @@
+---
+name: N'Gouro dit Issa SANOGO
+date: "`r format(Sys.time(), '%B, %Y')`"
+qualifications: MSc
+profilepic: ./img/profile.png
+position: Data Scientist
+address: 95870 Bezons, France
+email: ngsanogo@gmail.com
+www: ngsanogo.rbind.io
+github: ngsanogo
+linkedin: ngsanogo
+twitter: ngsanogo
+headcolor: 414141
+output: vitae::awesomecv
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(vitae)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Expériences professionnelles
+
+```{r}
+tribble(
+  ~ role, ~ company, ~ loc, ~ dates, ~ details,
+  "Data manager - Statisticien", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Avril 2019 - Auj.", "Toutes mes missions de data manager",
+  "Data manager - Statisticien", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Avril 2019 - Auj.", "Rédaction de plan d'analyse statistique",
+  "Data manager - Statisticien", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Avril 2019 - Auj.", "Analyse statistique",
+  "Data manager", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Sept. 2017 - Auj.", "Création d'eCRF",
+  "Data manager", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Sept. 2017 - Auj.", "Développement d'algorithme de contrôle de cohérence en R",
+  "Data manager", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Sept. 2017 - Auj.", "Développement de packages R",
+  "Data manager", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Sept. 2017 - Auj.", "Développement d'application en Shiny",
+  "Data manager", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Sept. 2017 - Auj.", "Reporting en Sweave (R + LaTeX)",
+  "Data manager (stage de fin d’études)", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Févr. 2017 - Août 2017", "Création d'eCRF",
+  "Data manager (stage de fin d’études)", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Févr. 2017 - Août 2017", "Développement d'algorithme de contrôle de cohérence en R",
+    "Data manager (stage de fin d’études)", "Assistance Publique – Hôpitaux de Paris (AP-HP)", "Boulogne-Billancourt, France", "Févr. 2017 - Août 2017", "Reporting en Sweave (R + LaTeX)"
+)  %>% 
+  detailed_entries(with = company, where = loc, what = role, when = dates, why = details)
+```
+
+# Formations
+
+```{r}
+tribble(
+  ~ degree, ~ uni, ~ loc, ~ dates, ~ details,
+  "Master 2 en ingénierie mathématique appliquée aux sciences du vivant", "Université Paris Descartes", "Paris, France", "Sept. 2016 - Sept. 2017", "Mathématiques appliquées, Biostatistique, Base de données, Receuil de données, Programmation",
+  "Licence mathématiques, parcours modélisation et simulation", "Université Paris Descartes", "Paris, France", "Sept. 2014 - Sept. 2015", "Mathématiques, Probabilité, Statistique"
+) %>% 
+  detailed_entries(degree, dates, uni, loc, details)
+```
+
+# Compétences, Informatiques et Langues
+
+```{r}
+tribble(
+  ~ type, ~ details,
+  "Compétences", "Mathématiques appliquées, statistique, programmation, data management, receuil de données.",
+  "Informatiques", "R, Python, C/C++, PostgreSQL/MySQL, Git, HTML/CSS, LaTeX, Limesurvey, RedCap, Linux",
+  "Langues", "Français, bilingue",
+  "Langues", "Anglais, niveau intermédiaire (B2 CECR)"
+) %>%
+  detailed_entries(what = type, why = details)
+```
