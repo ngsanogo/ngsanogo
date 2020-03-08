@@ -4,7 +4,7 @@ date: "`r format(Sys.time(), '%B, %Y')`"
 qualifications: MSc
 profilepic: ./img/profile.png
 position: Data Scientist
-address: 95870 Bezons, France
+address: Île-de-France, France
 email: ngsanogo@gmail.com
 www: ngsanogo.rbind.io
 github: ngsanogo
