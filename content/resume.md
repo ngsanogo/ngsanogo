@@ -22,7 +22,7 @@ Actually, I work as a clinical data manager - biostatistician at [AP-HP](https:/
 
 I am pretty much an **useR** and a big fan of open source software.
 
-To download my CV, please click [here](../CV_ISO.pdf)
+To download my CV, please click [here](https://github.com/ngsanogo/CV/blob/master/CV_ISO.pdf)
 
 ## Education
 
