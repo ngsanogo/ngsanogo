@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Issa Sanogo</title>
-    <link>/</link>
+    <link>https://ngsanogo.rbind.io/</link>
     <description>Recent content on Issa Sanogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 17 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ngsanogo.rbind.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Règlement Génnéral sur la protection des Données</title>
-      <link>/blog/r%C3%A8glement-g%C3%A9nn%C3%A9ral-sur-la-protection-des-donn%C3%A9es/</link>
+      <link>https://ngsanogo.rbind.io/blog/r%C3%A8glement-g%C3%A9nn%C3%A9ral-sur-la-protection-des-donn%C3%A9es/</link>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/r%C3%A8glement-g%C3%A9nn%C3%A9ral-sur-la-protection-des-donn%C3%A9es/</guid>
+      <guid>https://ngsanogo.rbind.io/blog/r%C3%A8glement-g%C3%A9nn%C3%A9ral-sur-la-protection-des-donn%C3%A9es/</guid>
       <description>Introduction Dans un monde de plus en plus tourné vers le numérique, vers les nouvelles technologies, la donnée est devenue l&amp;rsquo;or noir du XXIe siècle. Mais depuis le début du siècle, le nombre de cyber-attaque ne cesse d&amp;rsquo;augmenter. Les révélations d&amp;rsquo;Ed. Swoden ont ebranlé le monde. Le piratage des 3 milliards de compte de Yahoo et plus récemment l&amp;rsquo;affaire Cambridge Analityca avec Facebook. Nous assistons de façon impuissante à de multiples atteintes à l&amp;rsquo;identité humaine, à la vie privée et aux libertés individuelles ou publiques.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://ngsanogo.rbind.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://ngsanogo.rbind.io/about/</guid>
       <description>I&amp;rsquo;m Issa Sanogo. This is my personnel website. For more information about me, go on my homepage or consult my resume.
 This blog is about statistics, data in general with a special focus on R and open source software.
 As Errare humanum est, some post certainly contain error so please feel free to push a correction request directly on https://github.com/ngsanogo/ngsanogo.rbind.io.
@@ -34,55 +34,57 @@ This site has been created with blogdown and the theme is hugo-sustain, a Hugo t
     
     <item>
       <title>Consulting</title>
-      <link>/consulting/</link>
+      <link>https://ngsanogo.rbind.io/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/consulting/</guid>
+      <guid>https://ngsanogo.rbind.io/consulting/</guid>
       <description>Get in touch if you have a project in mind. I&amp;rsquo;d love to discuss about it and figure out how I can help you.
 Data science You have a data science project but you don&amp;rsquo;t have the time or expertise to complete it? I can help you. Data analysis is a real passion for me. I can also assist you in doing your project by yourself by setting up coaching sessions.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://ngsanogo.rbind.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://ngsanogo.rbind.io/contact/</guid>
       <description>The best way to reach me is by email at ngsanogo@gmail.com. You can contact me about anything but if it&amp;rsquo;s about programming, I advise you to post it on Stack Overflow instead. You&amp;rsquo;ll have all the answers you are looking for.
 The only social networks I use are : LinkedIn and Twitter.</description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>/projects/</link>
+      <link>https://ngsanogo.rbind.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>https://ngsanogo.rbind.io/projects/</guid>
       <description>Here are the projects I have worked on or I&amp;rsquo;m working on:
-ngsanogo.rbind.io This project is about building a website with hugo and blogdown. The source code is hosted on github.</description>
+ngsanogo.rbind.io This project is about building a website with hugo and blogdown. The source code is hosted on github.
+corpoaccident The corpoaccident package is a package that contains the data sets on traffic accidents involving injuries in France. The source code is hosted on github.
+corpoaccidentdash A Dashbord of traffic accidents involving injuries in France base on the corpoaccident package.</description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>/resume/</link>
+      <link>https://ngsanogo.rbind.io/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/resume/</guid>
-      <description>Contact information  Email: ngsanogo@gmail.com
- LinkdIn: Issa Sanogo
- Twitter: ngsanogo
- Adress: Île-de-France
+      <guid>https://ngsanogo.rbind.io/resume/</guid>
+      <description>Contact information   Email: ngsanogo@gmail.com
+  LinkdIn: Issa Sanogo
+  Twitter: ngsanogo
+  Adress: Île-de-France
   Short biography My name is N&amp;rsquo;Gouro dit Issa Sanogo, I am a mathematician engineer.
 I am a huge nerd passioned by data science. I love learning and teaching. I am in favor of popularizing science.
-After beeing graduated of bachelor&amp;rsquo;s degree in Mali I came in France to do my graduate studies. I graduated from UFR Math-Info Université Paris DESCARTES, where I obtained a M.</description>
+After beeing graduated of bachelor&amp;rsquo;s degree in Mali I came in France to do my graduate studies.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>https://ngsanogo.rbind.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>https://ngsanogo.rbind.io/teaching/</guid>
       <description>I can offer custom R training at your location. if you have a specific need in mind, contact me and we can work on a program together.</description>
     </item>
     
