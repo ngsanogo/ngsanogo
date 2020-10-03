@@ -6,7 +6,7 @@ Welcome to my Github account.
 
 My name is Issa Sanogo. I love data science.
 
-This repository hosts the source files of [my Website](ngsanogo.rbind.io).
+This repository hosts the source files of [my Website](https://ngsanogo.rbind.io).
 
 The website is built with the R package [blogdown](https://github.com/rstudio/blogdown).
 
