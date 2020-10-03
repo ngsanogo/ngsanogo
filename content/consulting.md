@@ -17,5 +17,4 @@ You have code or codes that you would like to turn into an [R](https://www.r-pro
 
 You need non-R-users to interact with R code? You are trying to engage people with interactive and visual interfaces to your data and analysis? I can build [shiny apps](https://shiny.rstudio.com/) to provide solutions.
 
-Check out some of my [projects](https://ngsanogo.rbind.io/projects) and [contact me](https://ngsanogo.rbind.io/contact).
-
+Check out some of my [projects](https://github.com/ngsanogo) and [contact me](https://ngsanogo.rbind.io/contact).
