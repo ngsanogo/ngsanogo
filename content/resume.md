@@ -8,21 +8,21 @@ Email: [ngsanogo@gmail.com](ngsanogo@gmail.com); LinkdIn: [Issa Sanogo](https://
 
 ## Short biography
 
-N'Gouro dit Issa Sanogo is a data manager/Statistican at [AP-HP](http://recherche.aphp.fr/). 
+N'Gouro dit Issa Sanogo is a data manager/Statistican at [AP-HP](https://recherche.aphp.fr/). 
 
-He graduated from [UFR Math-Info Université Paris DESCARTES](http://www.mi.parisdescartes.fr/), where he obtained a M.S. in mathematical engineering applied to life sciences.
+He graduated from [UFR Math-Info Université Paris DESCARTES](https://www.mi.parisdescartes.fr/), where he obtained a M.S. in mathematical engineering applied to life sciences.
 
 To download his CV, please click [here](https://github.com/ngsanogo/CV/blob/master/CV_Issa-sanogo.pdf)
 
 ## Education background
 
-+ 2015 - 2017, Master's degree in mathematical engineering applied to life sciences at [UFR Math-Info Université Paris DESCARTES](http://www.mi.parisdescartes.fr/), France
++ 2015 - 2017, Master's degree in mathematical engineering applied to life sciences at [UFR Math-Info Université Paris DESCARTES](https://www.mi.parisdescartes.fr/), France
 
 + 2014 - 2015, Bachelor of mathematics at UFR Math-Info University Paris DESCARTES, France
 
 ## Professional Experience
 
-+ **Data manager - statistician at [AP-HP](http://recherche.aphp.fr/)** from Sep. 2019 to now
++ **Data manager - statistician at [AP-HP](https://recherche.aphp.fr/)** from Sep. 2019 to now
 
     - Drafting of statistical analysis plan
     - Statistical analysis
@@ -34,13 +34,13 @@ To download his CV, please click [here](https://github.com/ngsanogo/CV/blob/mast
     - In-house development and maintenance of R packages
     - Application development in Shiny
 
-+ **Internship as data manager at [AP-HP](http://recherche.aphp.fr/)** from Feb. 2017 to Aug. 2017  
++ **Internship as data manager at [AP-HP](https://recherche.aphp.fr/)** from Feb. 2017 to Aug. 2017  
 
     - Design of eCRF
     - Development of consistency control algorithms in R
     - CREU IDF 2016 Activity Report
 
-+ **Internship as statistician at [INSTAT-MALI](http://www.instat-mali.org/)**
++ **Internship as statistician at [INSTAT-MALI](https://www.instat-mali.org/)**
 
     - Data analysis in R
     - Data management

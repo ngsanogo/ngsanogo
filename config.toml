@@ -3,7 +3,7 @@ languageCode = "en-US"
 title = "Issa Sanogo"
 disqusShortname = "ngsanogo"
 googleAnalytics = "UA-114981879-1"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 theme = "hugo-sustain"
 
 [permalinks]

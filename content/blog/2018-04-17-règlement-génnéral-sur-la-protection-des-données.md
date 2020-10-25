@@ -56,7 +56,7 @@ Les raisons d'un nouveau règlement peuvent être au nombre de trois (3) :
 
 - **Absence d'harmonisation au sein de l'UE** :  
 L'absence d'harmonisation des lois sur la protection des données au sein de l'UE est un véritable problème pour les entreprises multinationales au sein de l'UE.  
-L'actuel loi européenne en vigueur est une directive ([DIRECTIVE 95/46/CE DU PARLEMENT EUROPÉEN ET DU CONSEIL](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:FR:HTML)) et contrairement à un règlement, une directive est un acte législatif qui définit un objectif que tous les pays de l'UE doivent atteindre. Cependant, il appartient aux pays individuels de décider comment. Le règlement doit être appliqué dans son intégralité à travers l'UE d'où une unifomisation des lois en europe.
+L'actuel loi européenne en vigueur est une directive ([DIRECTIVE 95/46/CE DU PARLEMENT EUROPÉEN ET DU CONSEIL](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:FR:HTML)) et contrairement à un règlement, une directive est un acte législatif qui définit un objectif que tous les pays de l'UE doivent atteindre. Cependant, il appartient aux pays individuels de décider comment. Le règlement doit être appliqué dans son intégralité à travers l'UE d'où une unifomisation des lois en europe.
 
 - **Evolution rapide de l'informatique** :  
 La technologie a tellement évolué depuis 1978 (année d'application de la loi informatique et liberté) ou depuis 1995 (année d'application de la directive européenne relative la protection des données personnelles). Il fallait donc adapter les lois.  
@@ -292,5 +292,5 @@ Nous remarquons aussi que plusieurs pays dans le monde adapte le RGPD à leur l�
 
 - https://www.cnil.fr/fr/loi-78-17-du-6-janvier-1978-modifiee#CHAPITRE1
 
-- http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:31995L0046
+- https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:31995L0046
 
