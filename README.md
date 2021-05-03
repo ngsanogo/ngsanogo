@@ -2,12 +2,8 @@
 
 # Hello !
 
+My name is Issa Sanogo.
+
 Welcome to my Github account.
 
-My name is Issa Sanogo. I love data science.
-
-This repository hosts the source files of [my Website](https://ngsanogo.rbind.io).
-
-The website is built with the R package [blogdown](https://github.com/rstudio/blogdown).
-
-Don't hesitate to ask if you have any question.
+For more information about me, feel free to visite my website https://ngsanogo.rbind.io.
