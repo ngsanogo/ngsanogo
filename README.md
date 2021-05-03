@@ -10,6 +10,4 @@ I'm a big fan of **open source projects** and especially of [R](https://www.r-pr
 I spend my free time trying new things. I think that the best way to learn is to teach.
 
 This repository hosts the source files of [my Website](https://ngsanogo.rbind.io).  
-The website is built with the R package [blogdown](https://github.com/rstudio/blogdown).
-
-Don't hesitate to ask if you have any question.
+For more information about me, feel free to visit my website.
