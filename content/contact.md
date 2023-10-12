@@ -2,6 +2,6 @@
 title: "Contact"
 ---
 
-The best way to reach me is by email at [ngsanogo@gmail.com](ngsanogo@gmail.com). You can contact me about anything but if it's about programming, I advise you to post it on [Stack Overflow](https://stackoverflow.com/) instead. You'll have all the answers you are looking for.
+You can get in touch with me most effectively via email at [ngsanogo@proton.me](ngsanogo@proton.me). Feel free to reach out for any inquiries. However, if your query pertains to programming, I recommend posting it on Stack Overflow. You'll find comprehensive answers to your programming questions there.
 
-The only social networks I use are : LinkedIn [in/ngsanogo](https://www.linkedin.com/in/ngsanogo/) and Twitter [@ngsanogo](https://twitter.com/ngsanogo).
+As for social networks, I'm active solely on LinkedIn, where you can connect with me at [in/ngsanogo](https://www.linkedin.com/in/ngsanogo/).
