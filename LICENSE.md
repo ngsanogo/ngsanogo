@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2019 N'Gouro dit Issa Sanogo
+Copyright (c) 2025 N'Gouro dit Issa Sanogo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

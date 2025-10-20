@@ -1,22 +1,22 @@
+# 👋 Hello there!
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+Welcome to my GitHub!
 
-# Hello :wave: !
+I’m **Issa Sanogo**, a **Data Engineer / Data Manager** based in **Paris, France**.  
+I’m passionate about **data**, from its collection and transformation to its visualization and governance.
 
-Welcome to my Github account.
+I believe that *everything starts with data* — and that the best way to master it is by sharing knowledge and building things.
 
-My name is Issa Sanogo. I’m a data engineer/data manager in Paris,
-France.
+I’m a big fan of **open source technologies**, especially:  
+[R](https://www.r-project.org/), [Python](https://www.python.org/), and [Ubuntu](https://ubuntu.com/).
 
-I love playing with data.
+When I’m not exploring new datasets or building pipelines, you’ll probably find me experimenting with new tools, contributing to open projects, or writing about data topics.
 
-I’m a big fan of **open source projects** and especially of
-[R](https://www.r-project.org/), [Python](https://www.python.org/) and
-[ubuntu](https://ubuntu.com/). I spend my free time trying new things. I
-think that the best way to learn is to teach.
+---
 
-Here are some interesting links about me:
+### 🌐 Find me online
 
-- [Blog](https://ngsanogo.rbind.io)
-- [Twitter](https://twitter.com/ngsanogo)
-- [LinkedIn](https://www.linkedin.com/in/ngsanogo/)
+- 📝 [Blog](https://ngsanogo.rbind.io) — I share tutorials, experiments, and reflections on data and open source.  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ngsanogo/) — Let’s connect and exchange ideas.
+
+---
