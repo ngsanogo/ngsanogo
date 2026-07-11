@@ -1,11 +1,9 @@
 # Hello, I'm Issa Sanogo! 👋
 
 I'm a tech enthusiast and developer based near Paris, France.  
-I care about systems that are simple, reproducible, and pleasant to maintain. Much of how I think about code traces back to the Zen of Python.
-
-### 💻 Open source & learning in public
-
-I use this profile to learn in the open: exploring tools, reading other people's code, and contributing where I can be useful.
+I care about systems that are simple, reproducible, and pleasant to maintain.  
+Much of how I think about code traces back to the Zen of Python.  
+I use this profile to learn : exploring tools, reading other people's code, and contributing where I can be useful.
 
 ---
 
